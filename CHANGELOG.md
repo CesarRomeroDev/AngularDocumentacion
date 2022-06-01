@@ -55,4 +55,23 @@
     - Datos observables
     - ObservableHeroService
     - Suscríbete enHeroesComponent
+    - Mostrar mensajes
+    - CrearMessagesComponent
+    - Crear elMessageService
+    - inyectarlo en elHeroService
+    - Envía un mensaje desdeHeroService
+    - Mostrar el mensaje deHeroService
+    - Agregar mensajes adicionales al servicio de héroe
+  - Fín [01-06-2022]
 
+### [Agregado navegación enrutamiento]
+  - inicio [01-06-2022]
+    - Añade elAppRoutingModule
+    - Rutas
+    - AgregarRouterOutlet
+    - Añadir un enlace de navegación ( routerLink)
+    - Agregar una vista de tablero
+    - Agregar la ruta del tablero
+    - Agregar una ruta predeterminada
+    - Agregar enlace de tablero al shell
+    - 
